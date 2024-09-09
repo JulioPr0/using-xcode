@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5E5AD45D2C84C22500067D81 /* Entity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entity.swift; sourceTree = "<group>"; };
+		5E5AD45E2C84C28700067D81 /* UserEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserEntity.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5E5AD4562C84C1F700067D81 = {
+			isa = PBXGroup;
+			children = (
+				5E5AD45D2C84C22500067D81 /* Entity.swift */,
+				5E5AD45E2C84C28700067D81 /* UserEntity.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5E5AD4572C84C1F700067D81 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1540;
+			};
+			buildConfigurationList = 5E5AD45A2C84C1F700067D81 /* Build configuration list for PBXProject "Protocol-oriented programming practice network request 1" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5E5AD4562C84C1F700067D81;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5E5AD45B2C84C1F700067D81 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5E5AD45C2C84C1F700067D81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5E5AD45A2C84C1F700067D81 /* Build configuration list for PBXProject "Protocol-oriented programming practice network request 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E5AD45B2C84C1F700067D81 /* Debug */,
+				5E5AD45C2C84C1F700067D81 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5E5AD4572C84C1F700067D81 /* Project object */;
+}
