@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		5E5B3DF12CBA5F0D00EB0D9B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5E5B3DD22CBA5F0B00EB0D9B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5E5B3DD92CBA5F0B00EB0D9B;
+			remoteInfo = "Messaging in two objects via protocol";
+		};
+		5E5B3DFB2CBA5F0D00EB0D9B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5E5B3DD22CBA5F0B00EB0D9B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5E5B3DD92CBA5F0B00EB0D9B;
+			remoteInfo = "Messaging in two objects via protocol";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5E5B3DDA2CBA5F0B00EB0D9B /* Messaging in two objects via protocol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Messaging in two objects via protocol.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E5B3DF02CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Messaging in two objects via protocolTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E5B3DFA2CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Messaging in two objects via protocolUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5E5B3E022CBA5F0D00EB0D9B /* Exceptions for "Messaging in two objects via protocol" folder in "Messaging in two objects via protocol" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 5E5B3DD92CBA5F0B00EB0D9B /* Messaging in two objects via protocol */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		5E5B3DDC2CBA5F0B00EB0D9B /* Messaging in two objects via protocol */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5E5B3E022CBA5F0D00EB0D9B /* Exceptions for "Messaging in two objects via protocol" folder in "Messaging in two objects via protocol" target */,
+			);
+			path = "Messaging in two objects via protocol";
+			sourceTree = "<group>";
+		};
+		5E5B3DF32CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Messaging in two objects via protocolTests";
+			sourceTree = "<group>";
+		};
+		5E5B3DFD2CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Messaging in two objects via protocolUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5E5B3DD72CBA5F0B00EB0D9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E5B3DED2CBA5F0D00EB0D9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E5B3DF72CBA5F0D00EB0D9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5E5B3DD12CBA5F0B00EB0D9B = {
+			isa = PBXGroup;
+			children = (
+				5E5B3DDC2CBA5F0B00EB0D9B /* Messaging in two objects via protocol */,
+				5E5B3DF32CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests */,
+				5E5B3DFD2CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests */,
+				5E5B3DDB2CBA5F0B00EB0D9B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5E5B3DDB2CBA5F0B00EB0D9B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5E5B3DDA2CBA5F0B00EB0D9B /* Messaging in two objects via protocol.app */,
+				5E5B3DF02CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests.xctest */,
+				5E5B3DFA2CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5E5B3DD92CBA5F0B00EB0D9B /* Messaging in two objects via protocol */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E5B3E032CBA5F0D00EB0D9B /* Build configuration list for PBXNativeTarget "Messaging in two objects via protocol" */;
+			buildPhases = (
+				5E5B3DD62CBA5F0B00EB0D9B /* Sources */,
+				5E5B3DD72CBA5F0B00EB0D9B /* Frameworks */,
+				5E5B3DD82CBA5F0B00EB0D9B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5E5B3DDC2CBA5F0B00EB0D9B /* Messaging in two objects via protocol */,
+			);
+			name = "Messaging in two objects via protocol";
+			packageProductDependencies = (
+			);
+			productName = "Messaging in two objects via protocol";
+			productReference = 5E5B3DDA2CBA5F0B00EB0D9B /* Messaging in two objects via protocol.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5E5B3DEF2CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E5B3E082CBA5F0D00EB0D9B /* Build configuration list for PBXNativeTarget "Messaging in two objects via protocolTests" */;
+			buildPhases = (
+				5E5B3DEC2CBA5F0D00EB0D9B /* Sources */,
+				5E5B3DED2CBA5F0D00EB0D9B /* Frameworks */,
+				5E5B3DEE2CBA5F0D00EB0D9B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5E5B3DF22CBA5F0D00EB0D9B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5E5B3DF32CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests */,
+			);
+			name = "Messaging in two objects via protocolTests";
+			packageProductDependencies = (
+			);
+			productName = "Messaging in two objects via protocolTests";
+			productReference = 5E5B3DF02CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5E5B3DF92CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E5B3E0B2CBA5F0D00EB0D9B /* Build configuration list for PBXNativeTarget "Messaging in two objects via protocolUITests" */;
+			buildPhases = (
+				5E5B3DF62CBA5F0D00EB0D9B /* Sources */,
+				5E5B3DF72CBA5F0D00EB0D9B /* Frameworks */,
+				5E5B3DF82CBA5F0D00EB0D9B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5E5B3DFC2CBA5F0D00EB0D9B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5E5B3DFD2CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests */,
+			);
+			name = "Messaging in two objects via protocolUITests";
+			packageProductDependencies = (
+			);
+			productName = "Messaging in two objects via protocolUITests";
+			productReference = 5E5B3DFA2CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5E5B3DD22CBA5F0B00EB0D9B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					5E5B3DD92CBA5F0B00EB0D9B = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					5E5B3DEF2CBA5F0D00EB0D9B = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 5E5B3DD92CBA5F0B00EB0D9B;
+					};
+					5E5B3DF92CBA5F0D00EB0D9B = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 5E5B3DD92CBA5F0B00EB0D9B;
+					};
+				};
+			};
+			buildConfigurationList = 5E5B3DD52CBA5F0B00EB0D9B /* Build configuration list for PBXProject "Messaging in two objects via protocol" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5E5B3DD12CBA5F0B00EB0D9B;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 5E5B3DDB2CBA5F0B00EB0D9B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5E5B3DD92CBA5F0B00EB0D9B /* Messaging in two objects via protocol */,
+				5E5B3DEF2CBA5F0D00EB0D9B /* Messaging in two objects via protocolTests */,
+				5E5B3DF92CBA5F0D00EB0D9B /* Messaging in two objects via protocolUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5E5B3DD82CBA5F0B00EB0D9B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E5B3DEE2CBA5F0D00EB0D9B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E5B3DF82CBA5F0D00EB0D9B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5E5B3DD62CBA5F0B00EB0D9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E5B3DEC2CBA5F0D00EB0D9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E5B3DF62CBA5F0D00EB0D9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5E5B3DF22CBA5F0D00EB0D9B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5E5B3DD92CBA5F0B00EB0D9B /* Messaging in two objects via protocol */;
+			targetProxy = 5E5B3DF12CBA5F0D00EB0D9B /* PBXContainerItemProxy */;
+		};
+		5E5B3DFC2CBA5F0D00EB0D9B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5E5B3DD92CBA5F0B00EB0D9B /* Messaging in two objects via protocol */;
+			targetProxy = 5E5B3DFB2CBA5F0D00EB0D9B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5E5B3E042CBA5F0D00EB0D9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4N7GUZ7JN7;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Messaging in two objects via protocol/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.websitejulio.Messaging-in-two-objects-via-protocol";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5E5B3E052CBA5F0D00EB0D9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4N7GUZ7JN7;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Messaging in two objects via protocol/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.websitejulio.Messaging-in-two-objects-via-protocol";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		5E5B3E062CBA5F0D00EB0D9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5E5B3E072CBA5F0D00EB0D9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5E5B3E092CBA5F0D00EB0D9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4N7GUZ7JN7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.websitejulio.Messaging-in-two-objects-via-protocolTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Messaging in two objects via protocol.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Messaging in two objects via protocol";
+			};
+			name = Debug;
+		};
+		5E5B3E0A2CBA5F0D00EB0D9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4N7GUZ7JN7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.websitejulio.Messaging-in-two-objects-via-protocolTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Messaging in two objects via protocol.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Messaging in two objects via protocol";
+			};
+			name = Release;
+		};
+		5E5B3E0C2CBA5F0D00EB0D9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4N7GUZ7JN7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.websitejulio.Messaging-in-two-objects-via-protocolUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Messaging in two objects via protocol";
+			};
+			name = Debug;
+		};
+		5E5B3E0D2CBA5F0D00EB0D9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4N7GUZ7JN7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.websitejulio.Messaging-in-two-objects-via-protocolUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Messaging in two objects via protocol";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5E5B3DD52CBA5F0B00EB0D9B /* Build configuration list for PBXProject "Messaging in two objects via protocol" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E5B3E062CBA5F0D00EB0D9B /* Debug */,
+				5E5B3E072CBA5F0D00EB0D9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E5B3E032CBA5F0D00EB0D9B /* Build configuration list for PBXNativeTarget "Messaging in two objects via protocol" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E5B3E042CBA5F0D00EB0D9B /* Debug */,
+				5E5B3E052CBA5F0D00EB0D9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E5B3E082CBA5F0D00EB0D9B /* Build configuration list for PBXNativeTarget "Messaging in two objects via protocolTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E5B3E092CBA5F0D00EB0D9B /* Debug */,
+				5E5B3E0A2CBA5F0D00EB0D9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E5B3E0B2CBA5F0D00EB0D9B /* Build configuration list for PBXNativeTarget "Messaging in two objects via protocolUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E5B3E0C2CBA5F0D00EB0D9B /* Debug */,
+				5E5B3E0D2CBA5F0D00EB0D9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5E5B3DD22CBA5F0B00EB0D9B /* Project object */;
+}
